@@ -4,25 +4,25 @@
 
 
 
-# 日常bug解决方法汇总
+# 1. 日常bug解决方法汇总
 
-## 1. git相关
+## 1.1 git相关
 
  [git报错：ssh connect to host github.com port 22 Connection timed out .md](notes\bugs&tips\git报错：ssh connect to host github.com port 22 Connection timed out .md) 
 
-## 2. 其他
+## 1.2 其他
 
  [jdk没有jre的解决方法.md](notes\bugs&tips\jdk没有jre的解决方法.md) 
 
  [IDEA+exej4+InnoSetup打包java项目为exe可执行文件.md](notes\bugs&tips\IDEA+exej4+InnoSetup打包java项目为exe可执行文件.md) 
 
- [win10系统下inno setup 打包程序因权限不足无法执行问题解决方案.md](notes\bugs&tips\win10系统下inno setup 打包程序因权限不足无法执行问题解决方案.md) 
+  [win10系统下inno setup 打包程序因权限不足无法执行问题解决方案.md](notes\bugs&tips\win10系统下inno setup 打包程序因权限不足无法执行问题解决方案.md) 
 
  [访问HTTPS握手失败handshake_failure解决办法.md](notes\bugs&tips\访问HTTPS握手失败handshake_failure解决办法.md) 
 
 
 
-# Java学习笔记
+# 2. Java学习笔记
 
  [001java概述和特性.md](notes\java学习笔记\001java概述和特性.md) 
 
@@ -35,6 +35,34 @@
 
 
 
+
+# 3. 项目开发整理
+
+
+
+
+
+
+
+
+
+
+
+# 4. 深度学习相关
+
+
+
+
+
+
+
+
+
+
+
+
+
+# 5. 生活の小妙招
 
 
 
